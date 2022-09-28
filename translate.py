@@ -1,5 +1,6 @@
 # read "source.txt" and export translated file.
 
+# pip install googletrans == 4.0.0-rc1
 from googletrans import Translator
 
 translator = Translator()
